@@ -1,3 +1,2 @@
-### Hello world 👋
-#### Currently a Web developer.
+### I am Currently a Web developer.
 
