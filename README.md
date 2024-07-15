@@ -1,2 +1,2 @@
-### I am Currently a Web developer and open to collaborations.
+### I am currently into Web development and open to collaborations.
 
